@@ -140,6 +140,4 @@ scripts/      data fetching, terrain encoding, sweeps, demo render
 tests/
 ```
 
-## License
 
-MIT
