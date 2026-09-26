@@ -1,0 +1,2 @@
+{"node_name": "llm_step_1", "input": {"messages_so_far": 2}, "output": {"finish_reason": "stop", "tool_calls": [], "text_len": 3227}, "valid": null, "wall_ms": 8030, "tokens_in": 2555, "tokens_out": 855}
+{"node_name": "terminal", "input": {"stopped_reason": "final"}, "output": {"parsed_cells": 5, "parse_error": null}, "valid": true, "wall_ms": 0, "tokens_in": 0, "tokens_out": 0}

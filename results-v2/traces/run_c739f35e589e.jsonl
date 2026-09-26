@@ -1,0 +1,3 @@
+{"node_name": "plan", "input": {"system_len": 783, "user_len": 4790, "condition": "structured_only"}, "output": {"raw_len": 9923, "final_path_len": 19, "parsed_cells": 0, "parse_error": "no (r, c) tuples found in answer"}, "valid": false, "wall_ms": 29108, "tokens_in": 2257, "tokens_out": 3616}
+{"node_name": "critique", "input": {"system_len": 747, "user_len": 14818}, "output": {"raw_len": 181, "issues_found": 2}, "valid": null, "wall_ms": 984, "tokens_in": 5903, "tokens_out": 42}
+{"node_name": "revise", "input": {"system_len": 643, "user_len": 14952, "critique_issues": 2}, "output": {"raw_len": 322, "final_path_len": 310, "parsed_cells": 29, "parse_error": null, "changed_from_plan": true}, "valid": true, "wall_ms": 1792, "tokens_in": 5887, "tokens_out": 205}

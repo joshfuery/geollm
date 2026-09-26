@@ -1,0 +1,25 @@
+{
+  "encoding": "terrarium",
+  "elev_offset_m": 32768.0,
+  "shape": {
+    "height": 288,
+    "width": 576
+  },
+  "bbox": {
+    "min_x": -119.6801389,
+    "min_y": 37.7001389,
+    "max_x": -119.5201389,
+    "max_y": 37.7801389,
+    "crs": "EPSG:4326"
+  },
+  "elev_m": {
+    "min": 1165.2298583984375,
+    "max": 2735.18701171875
+  },
+  "pixel_size_m": 27.68767938886331,
+  "source": "GeoTIFF dem.tif",
+  "native_shape": {
+    "height": 288,
+    "width": 576
+  }
+}

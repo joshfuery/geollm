@@ -1,0 +1,1 @@
+{"node_name": "single_shot_llm", "input": {"system_len": 783, "user_len": 4782, "condition": "structured_only", "prompt_version": "route/v1"}, "output": {"raw_len": 8613, "final_path_len": 19, "parsed_cells": 0, "parse_error": "no (r, c) tuples found in answer", "model_reported": "gpt-4o-2024-08-06"}, "valid": false, "wall_ms": 26569, "tokens_in": 2262, "tokens_out": 3215}

@@ -1,0 +1,20 @@
+{
+  "region": {
+    "name": "matterhorn",
+    "label": "Matterhorn, Swiss Alps",
+    "bbox": {
+      "min_x": 7.6,
+      "min_y": 45.94,
+      "max_x": 7.72,
+      "max_y": 46.02
+    },
+    "dem_type": "COP30",
+    "description": "Extreme relief, glaciers, near-vertical faces \u2014 a stress test for cost accumulation."
+  },
+  "fetched_at": "2026-09-23T04:21:13.671346+00:00",
+  "dem": {
+    "path": "dem.tif",
+    "bytes": 514130,
+    "source": "OpenTopography COP30"
+  }
+}

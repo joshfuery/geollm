@@ -1,0 +1,20 @@
+{
+  "region": {
+    "name": "grand_canyon",
+    "label": "Grand Canyon, USA",
+    "bbox": {
+      "min_x": -112.2,
+      "min_y": 36.03,
+      "max_x": -112.05,
+      "max_y": 36.14
+    },
+    "dem_type": "COP30",
+    "description": "Stepped mesas and deep incisions; tests multi-modal path finding around long ridges."
+  },
+  "fetched_at": "2026-09-23T04:21:01.707666+00:00",
+  "dem": {
+    "path": "dem.tif",
+    "bytes": 880785,
+    "source": "OpenTopography COP30"
+  }
+}

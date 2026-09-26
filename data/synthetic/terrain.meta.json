@@ -1,0 +1,23 @@
+{
+  "encoding": "terrarium",
+  "elev_offset_m": 32768.0,
+  "shape": {
+    "height": 128,
+    "width": 128
+  },
+  "bbox": {
+    "min_x": 0.0,
+    "min_y": 0.0,
+    "max_x": 128.0,
+    "max_y": 128.0,
+    "crs": "EPSG:4326"
+  },
+  "elev_m": {
+    "min": 0.0,
+    "max": 1000.0
+  },
+  "pixel_size_m": 30.0,
+  "source": "synthetic seed=42",
+  "task_id": "2fe4a3161093b97b",
+  "synthetic": true
+}

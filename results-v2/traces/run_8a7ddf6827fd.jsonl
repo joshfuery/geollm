@@ -1,0 +1,2 @@
+{"node_name": "plan", "input": {"system_len": 783, "user_len": 4761, "condition": "structured_only"}, "output": {"raw_len": 2078, "final_path_len": 159, "parsed_cells": 15, "parse_error": null}, "valid": true, "wall_ms": 4745, "tokens_in": 2256, "tokens_out": 572}
+{"node_name": "verify", "input": {"tool": "check_path_issues", "plan_cells": 15}, "output": {"issues_found": 0, "issues_first_three": []}, "valid": true, "wall_ms": 0, "tokens_in": 0, "tokens_out": 0}

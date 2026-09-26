@@ -1,0 +1,20 @@
+{
+  "region": {
+    "name": "yosemite",
+    "label": "Yosemite Valley, USA",
+    "bbox": {
+      "min_x": -119.68,
+      "min_y": 37.7,
+      "max_x": -119.52,
+      "max_y": 37.78
+    },
+    "dem_type": "COP30",
+    "description": "Iconic granite walls, dramatic elevation, the Merced River threading the valley floor."
+  },
+  "fetched_at": "2026-09-23T04:20:49.707675+00:00",
+  "dem": {
+    "path": "dem.tif",
+    "bytes": 688371,
+    "source": "OpenTopography COP30"
+  }
+}

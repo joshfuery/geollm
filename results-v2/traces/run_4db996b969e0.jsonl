@@ -1,0 +1,3 @@
+{"node_name": "plan", "input": {"system_len": 783, "user_len": 4761, "condition": "structured_only"}, "output": {"raw_len": 1588, "final_path_len": 255, "parsed_cells": 24, "parse_error": null}, "valid": true, "wall_ms": 4642, "tokens_in": 2256, "tokens_out": 484}
+{"node_name": "critique", "input": {"system_len": 747, "user_len": 6454}, "output": {"raw_len": 670, "issues_found": 23}, "valid": null, "wall_ms": 2324, "tokens_in": 2770, "tokens_out": 279}
+{"node_name": "revise", "input": {"system_len": 643, "user_len": 7077, "critique_issues": 23}, "output": {"raw_len": 267, "final_path_len": 255, "parsed_cells": 24, "parse_error": null, "changed_from_plan": false}, "valid": true, "wall_ms": 2306, "tokens_in": 2991, "tokens_out": 170}

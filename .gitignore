@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.mypy_cache/
+.ruff_cache/
+.pytest_cache/
+
+# Data / results (large, generated)
+data/*.tif
+data/*.tiff
+data/cache/
+data/places/
+results-live/
+results-preflight/
+
+# Local scratch
+Claude outputs/
+plans.txt
+results/*.db
+results/**/*.jsonl
+results/**/*.png
+
+# Secrets
+.env
+.env.local
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Web
+web/node_modules/
+web/dist/
+web/.next/
